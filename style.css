@@ -3,10 +3,24 @@ background-color:rgb(255, 255, 255) ;
 color:rgb(0, 0, 0) ;
   font-family: "UoqMunThenKhung", serif;
 
-font-size:49;
+font-size:larger;
   
 }
+header{
+font-size:larger;
 
+}
+h1{
+font-size:larger;
 
+}
+h2{
+font-size:larger;
+
+}
+p{
+font-size:medium;
+
+}
 
 
