@@ -23,7 +23,13 @@ font-size:larger;
 section{
   display: flex;
   justify-content: center;
-  background-color: rgb(136, 136, 153);
+}
+.letras{
+      margin-right: 20%;
 }
 
+img{
+  width: 500px;
+  height: 400px;
+}
 
